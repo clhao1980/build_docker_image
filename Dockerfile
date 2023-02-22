@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/triggers/cmd/webhook:v0.22.2@sha256:b524d3b13fc9c61976c57ba7e90d49e032789918f1a63b237d2057b05e0e2f0b
+FROM gcr.io/tekton-releases/github.com/tektoncd/dashboard/cmd/dashboard:v0.32.0@sha256:f11d6bdd2a1f2bb1e6366e416741ce1754a7695837305c054a0167f3f7b055ca
 MAINTAINER clhao1980 <clhao1980@gmail.com>
