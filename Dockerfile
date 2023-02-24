@@ -1,2 +1,2 @@
-FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/nop:v0.45.0@sha256:3314b1f7222c41ab6e191bb4d4e13b519cc1c2f71f66e29ce86d9eaf611808f0
+FROM gcr.io/tekton-releases/github.com/tektoncd/pipeline/cmd/sidecarlogresults:v0.45.0@sha256:3e2d834c4820f06c44a79362d17b847bb0f108a385a932e5f5fdb32160b38b3a
 MAINTAINER clhao1980 <clhao1980@gmail.com>
