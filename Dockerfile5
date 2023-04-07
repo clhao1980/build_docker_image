@@ -1,0 +1,2 @@
+FROM registry.k8s.io/sig-storage/nfs-subdir-external-provisioner
+MAINTAINER clhao1980 <clhao1980@gmail.com>
